@@ -3,6 +3,6 @@ This is a copyright notice
 Test git quick start demo
 
 Team Name: 
-Rajat Joshi  rajatj969@gmail.com  @rajatrjoshi
+Rajat Joshi  rajatj969@gmail.com  @rajatrjoshi Org: Sugarbox Networks
 
 made a change to this file just to implement a branching concept
