@@ -1,7 +1,7 @@
-#Starter Git Project
+# Starter Git Project
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
 
-##How To Contribute
+## How To Contribute
