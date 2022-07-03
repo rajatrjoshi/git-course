@@ -1,3 +1,5 @@
+This is a copyright notice
+
 Test git quick start demo
 
 made a change to this file just to implement a branching concept
