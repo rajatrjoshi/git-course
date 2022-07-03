@@ -22,3 +22,9 @@ Click on the below link to contribute
 
 2022 Git.Training.
 
+###Team members
+
+Rajat Joshi
+rajatj969@gmail.com
+@rajatrjoshi
+
