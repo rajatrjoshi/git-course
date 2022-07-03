@@ -6,3 +6,5 @@ Team Name:
 Rajat Joshi  rajatj969@gmail.com  @rajatrjoshi
 
 made a change to this file just to implement a branching concept
+
+dummy text to implement merge conflict
